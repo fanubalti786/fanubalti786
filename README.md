@@ -1,18 +1,74 @@
-# 💫 About Me:
-Motivated Full Stack Web & Blockchain Developer with hands-on experience in JavaScript, Node.js, and the MERN stack. Skilled in building Ethereum smart contracts, ERC-721 NFTs, and deploying projects on the Sepolia testnet. Experienced in developing DeFi platforms, NFT marketplaces, and scalable web applications with authentication and dashboard systems. Strong problem-solving ability with a passion for learning and contributing to real-world projects.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fanubalti786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/irfan-haider01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fanubalti101) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fanu_786) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Irfan Haider) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fanubalti786@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=fanubalti786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=fanubalti786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=fanubalti786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">Hi 👋, I'm Irfan Haider</h1>
+<h3 align="center">🚀 Full Stack Web & Blockchain Developer</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=fanubalti786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+Motivated Full Stack Web & Blockchain Developer with hands-on experience in JavaScript, Node.js, and the MERN stack.  
+
+🔹 Skilled in building Ethereum smart contracts, ERC-721 NFTs  
+🔹 Experience with Sepolia testnet deployments  
+🔹 Built DeFi platforms & NFT marketplaces  
+🔹 Strong grip on authentication systems & dashboards  
+🔹 Passionate about solving real-world problems  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="#">Instagram</a> •
+<a href="#">LinkedIn</a> •
+<a href="#">TikTok</a> •
+<a href="#">X (Twitter)</a> •
+<a href="https://mastodon.social/@Irfan Haider">Mastodon</a> •
+<a href="mailto:fanubalti786@gmail.com">Email</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Frontend
+HTML5 • CSS3 • JavaScript • TypeScript  
+React.js • Next.js • TailwindCSS • Vite  
+
+### ⚙️ Backend
+Node.js • Express.js • Prisma • Firebase  
+
+### 🗄️ Database
+MongoDB • PostgreSQL  
+
+### 🔗 Blockchain
+Solidity • Ethereum • ERC-721 • DeFi  
+
+### 🛠️ Tools & DevOps
+Git • GitHub • Docker • Nginx  
+Vercel • Render • Bash • Yarn • PNPM • NPM • Nodemon  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fanubalti786&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fanubalti786&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Current Focus
+- 🔥 Blockchain Development (Smart Contracts, DeFi)
+- 🌐 Full Stack MERN Projects
+- ⚡ Scalable Web Apps
+
+---
+
+## ✨ Fun Fact
+💡 I believe in **smart work + scalable systems** — building once, earning multiple times.
+
+---
+
+⭐ Don't forget to check out my repositories!
